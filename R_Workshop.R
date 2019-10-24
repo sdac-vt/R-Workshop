@@ -10,6 +10,7 @@ library(tidyverse)
 
 # Load a cleaned data set
 load("/Users/solsen/Documents/SDAC/NBA_Data.RData") #Data Loaded as NBA_data
+# For Windows: "C\\Users\\..."
 
 View(NBA_data)
 
